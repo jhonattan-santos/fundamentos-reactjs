@@ -9,7 +9,7 @@ const posts: PostType[] = [
   {
     id: 1,
     author: {
-      avatarUrl: 'https://github.com/jhonattanwesleysantos.png',
+      avatarUrl: 'https://github.com/jhonattan-santos.png',
       name: 'Jhonattan Santos',
       role: 'Web Developer'
     },
